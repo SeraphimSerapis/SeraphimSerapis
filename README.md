@@ -3,7 +3,11 @@
 
 ## 👨‍💻 Biography
 
-I've been working in Developer Relations for more than 10 years. In my current role, I oversee [Community Programs](https://developers.google.com/community), Operations, and Regions for Google's Developer Relations Ecosystem team in Europe. My favorite technologies are [Flutter](https://github.com/flutter) and anything related to home automation. In 2016, Tim authored [a book about web security and identity](http://shop.oreilly.com/product/0636920044376.do) for O'Reilly. Before joining Google, he ran PayPal's Developer and Startup Relations team in EMEA and APAC.
+Hello there! My name is Tim, and for the past ten years, I've been advocating for, serving, and enabling developers across several Developer Relations teams.
+
+In my current role, I oversee [Community Programs](https://developers.google.com/community), Operations, and Regions for Google's Developer Relations Ecosystem team in Europe, Israel, and Russia. My favorite technologies are [Flutter](https://github.com/flutter) and anything related to home automation. Furthermore, I'm passionate about identity and security technology -- this is why I authored a [book for O'Reilly](http://shop.oreilly.com/product/0636920044376.do) covering best practices for web developers.
+
+Before joining Google in 2016, I ran PayPal's Developer and Startup Relations team in EMEA and APAC. The Developer Relations Ecosystem team prides itself in being a truly global organization that ensures developers' voices are heard and represented -- no matter their background, career stage, or geographic location.
 
 ## 🎤 Public Speaking
 
