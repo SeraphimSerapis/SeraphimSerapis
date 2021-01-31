@@ -11,7 +11,7 @@ Before joining Google in 2016, I ran PayPal's Developer and Startup Relations te
 
 ## 🎤 Public Speaking
 
-I have a passion for public speaking -- here are some examples of talks I have given:
+I've a passion for public speaking -- here are some examples of talks I have given:
 
 - [The Magic of Flutter @ GDG DevFest Ukraine 2017](https://youtu.be/0IY6J5baAj8)
 - [Engaging Across the Business @ DevRelCon UK 2016](https://youtu.be/7HYIuEm5_cg)
@@ -21,7 +21,7 @@ I have a passion for public speaking -- here are some examples of talks I have g
 
 ## 🤖 What I currently play with
 
-As stated in my bio, I am a massive fan of anything connected to home automation. I love using [Docker](https://github.com/docker), [Kubernetes](https://github.com/kubernetes/kubernetes), and [Home Assistant](https://github.com/home-assistant/core) to make my life easier and automate processes.
+As stated in my bio above, I'm a massive fan of anything connected to home automation. I love using [Docker](https://github.com/docker), [Kubernetes](https://github.com/kubernetes/kubernetes), and [Home Assistant](https://github.com/home-assistant/core) to make my life easier and automate processes.
 
 ## ✉️ Contact
 
