@@ -11,13 +11,15 @@ Before joining Google in 2016, I ran PayPal's Developer and Startup Relations te
 
 ## 🎤 Public Speaking
 
-I've a passion for public speaking -- here are some examples of talks I have given:
+I have a passion for public speaking -- here are some examples of talks I have given:
 
 - [The Magic of Flutter @ GDG DevFest Ukraine 2017](https://youtu.be/0IY6J5baAj8)
 - [Engaging Across the Business @ DevRelCon UK 2016](https://youtu.be/7HYIuEm5_cg)
 - [Node JS Authentication and Data Security @ JSConf Asia 2015](https://youtu.be/a8zYmRmtss0)
 - [Supercharging Node with Kraken @ JSConf EU 2014](https://youtu.be/gKebfQH8aXU)
 - [Future of Payments @ Codemotion Milan 2014](https://youtu.be/6YeYSpZ4Ukw)
+
+In the past couple of years, most of my public speaking activities have focused on company-internal events and the facilitation of public speaking workshops I run for the developer community and specifically for people from underrepresented groups.
 
 ## 🤖 What I currently play with
 
