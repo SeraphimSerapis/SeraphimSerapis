@@ -9,6 +9,8 @@ In my current role, I oversee [Community](https://developers.google.com/communit
 
 Before joining Google in 2016, I ran PayPal's Developer and Startup Relations team in EMEA and APAC. The Developer Relations Ecosystem team prides itself in being a truly global organization that ensures developers' voices are heard and represented -- no matter their background, career stage, or geographic location.
 
+When I'm not driving innovation for developers, Tim enjoys conquering challenging climbs on his road bike.
+
 ## 🎤 Public Speaking
 
 I have a passion for public speaking -- here are some examples of talks I have given:
