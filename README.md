@@ -13,7 +13,7 @@ When I'm not driving innovation for developers, I enjoy conquering challenging c
 
 ## 🎤 Public Speaking
 
-I have a passion for public speaking -- here are some examples of talks I have given:
+I have a passion for public speaking—here are some examples of talks I have given:
 
 - [The Magic of Flutter @ GDG DevFest Ukraine 2017](https://youtu.be/0IY6J5baAj8)
 - [Engaging Across the Business @ DevRelCon UK 2016](https://youtu.be/7HYIuEm5_cg)
@@ -21,11 +21,11 @@ I have a passion for public speaking -- here are some examples of talks I have g
 - [Supercharging Node with Kraken @ JSConf EU 2014](https://youtu.be/gKebfQH8aXU)
 - [Future of Payments @ Codemotion Milan 2014](https://youtu.be/6YeYSpZ4Ukw)
 
-In the past couple of years, most of my public speaking activities have focused on company-internal events and the facilitation of public speaking workshops I run for the developer community and specifically for people from underrepresented groups.
+In recent years, my focus has shifted to delivering keynotes for major events such as Google I/O Connect in EMEA, in addition to facilitating public speaking workshops I run for the developer community and specifically for people from underrepresented groups.
 
 ## 🤖 What I currently play with
 
-As stated in my bio above, I'm a massive fan of anything connected to home automation. I love using [Ollama](https://github.com/ollama/ollama) with [Gemma](https://github.com/google-deepmind/gemma), [Docker](https://github.com/docker), [Kubernetes](https://github.com/kubernetes/kubernetes), and [Home Assistant](https://github.com/home-assistant/core) to make my life easier and automate processes.
+As stated in my bio above, I'm a massive fan of anything connected to Artificial Intelligence. I love using [Ollama](https://github.com/ollama/ollama) with [Gemma](https://github.com/google-deepmind/gemma), [Docker](https://github.com/docker), and [Kubernetes](https://github.com/kubernetes/kubernetes) to make my life easier and automate processes.
 
 ## ✉️ Contact
 
