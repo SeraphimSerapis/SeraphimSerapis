@@ -5,7 +5,9 @@
 
 Hello there! My name is Tim, and for the past fourteen years, I've been advocating for, serving, and enabling developers across several Developer Relations teams.
 
-In my current role, I oversee [Community](https://developers.google.com/community) and [Startup](https://startup.google.com/accelerator/) Programs for Google's Developer Relations Ecosystem team in Europe, the Middle East, and Africa. My favorite technologies are the AI space (especially open models), [Flutter](https://github.com/flutter), and anything related to home automation. Furthermore, I'm passionate about identity and security technology -- this is why I authored a [book for O'Reilly](http://shop.oreilly.com/product/0636920044376.do) covering best practices for web developers. Before joining Google in 2016, I ran PayPal's Developer and Startup Relations team in EMEA and APAC.
+I'm deeply convinced of the profound impact technology has on improving people's lives everywhere, and this mission drives my work. In my current role, I lead the program strategy and execution for Google's Developer Relations Ecosystem team, serving developers and startups across Europe, the Middle East, and Africa. I'm a dedicated AI enthusiast and I love exploring the bleeding edge of technology to understand where the industry is headed next.
+
+I'm passionate about identity and security technology—which is why I authored a [book for O'Reilly](http://shop.oreilly.com/product/0636920044376.do) covering best practices for web developers. Before joining Google in 2016, I ran PayPal's Developer and Startup Relations team in EMEA and APAC.
 
 When I'm not driving innovation for developers, I enjoy conquering challenging climbs on my road bike.
 
@@ -23,7 +25,7 @@ In the past couple of years, most of my public speaking activities have focused 
 
 ## 🤖 What I currently play with
 
-As stated in my bio above, I'm a massive fan of anything connected to home automation. I love using [Docker](https://github.com/docker), [Kubernetes](https://github.com/kubernetes/kubernetes), and [Home Assistant](https://github.com/home-assistant/core) to make my life easier and automate processes.
+As stated in my bio above, I'm a massive fan of anything connected to home automation. I love using [Ollama](https://github.com/ollama/ollama) with [Gemma](https://github.com/google-deepmind/gemma), [Docker](https://github.com/docker), [Kubernetes](https://github.com/kubernetes/kubernetes), and [Home Assistant](https://github.com/home-assistant/core) to make my life easier and automate processes.
 
 ## ✉️ Contact
 
